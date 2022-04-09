@@ -1,4 +1,4 @@
-# Online Visitors Counter
+# Online Web Visitors Counter
 
 [![License](https://badgen.net/badge/license/MIT/blue)](http://victor.mit-license.org/)
 
