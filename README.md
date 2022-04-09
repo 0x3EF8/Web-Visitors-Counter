@@ -22,7 +22,7 @@ If you're not using a webhosting panel, like cPanel or VestaCP, please, install 
 
 ## Usage
 
-Download and unzip [this package](https://github.com/felladrin/online-visitors-counter/archive/master.zip).
+Download and unzip [this package](https://codeload.github.com/0x3EF8/Web-Visitors-Counter/zip/refs/heads/main).
 
 Then upload the folder `ovc` to your website (anywhere).
 
